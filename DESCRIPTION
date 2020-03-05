@@ -1,0 +1,13 @@
+Package: SoccerPitch
+Type: Package
+Title: Soccer Pitch Package for R
+Version: 0.1.0
+Author: witnesstheanalysis.com
+Maintainer: The package maintainer <witnesstheanalysis@gmail.com>
+Description: Create a Soccer Pitch in R
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports:
+    ggplot2
+RoxygenNote: 7.0.2
